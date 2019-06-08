@@ -13,6 +13,6 @@ Im not going to publish source code of this project here,but if anyone is willin
 <img src="/First.png"  width= "350">
 <br>
 
-<b> P.S: </b> Of course I will be glad if you download the app and give 5 stars  : ) 
+<b> P.S: </b> Of course I will be glad if you download the app and give 5 stars   : ) 
 
 
