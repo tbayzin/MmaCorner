@@ -1,2 +1,3 @@
 # MmaCorner
-MmaCorner mobile app
+
+MmaCorner is an Android app which contains MMA comments,articles and fight predictions.
