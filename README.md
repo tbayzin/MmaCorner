@@ -5,7 +5,7 @@ MmaCorner is an Android app which contains MMA comments,articles and fight predi
 Im not going to publish source code of this project here,but if anyone is willing to have the source code then he can open a ticket at Issues tab and leave me his mail adress.
 <br>
 
-  [Here is the Google Play connection](https://play.google.com/store/apps/details?id=com.metalsoft.mmacorner)  of the app.
+ <b> [Here is the Google Play connection](https://play.google.com/store/apps/details?id=com.metalsoft.mmacorner) </b>  of the app.
 
 
 <img src="/Second.png"  width= "350">
