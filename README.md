@@ -8,7 +8,7 @@ Im not going to publish source code of this project here,but if anyone is willin
  <b> [Here is the Google Play connection](https://play.google.com/store/apps/details?id=com.metalsoft.mmacorner) </b>  of the app.
 
 
-<img src="/Second.png"  width= "350">
+<img src="/First.png"  width= "350">
 
 <img src="/2.png"  width= "350">
 <br>
